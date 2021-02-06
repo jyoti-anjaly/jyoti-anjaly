@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JYOTI ANJALY</h1>
-<h3 align="center">A passionate beginner in Programming field from India</h3>
+<h3 align="center">Competitive Coder || Beginner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyoti-anjaly&label=Profile%20views&color=0e75b6&style=flat" alt="jyoti-anjaly" /> </p>
 
@@ -7,21 +7,21 @@
 
 - 🔭 I’m currently working on [Machine Learning project on the topic " Anti-Counterfeit-on-Medicine-detection"](https://github.com/jyoti-anjaly/Anti-Counterfeit-on-Medicine-detection-.git)
 
-- 🌱 I’m currently learning **||Web Development||C++||Python||Machine Learning etc.**
+- 🌱 I’m currently learning **Web Development || C++ || Python || Machine Learning etc.**
 
 - 👨‍💻 All of my projects are available at [https://jyoti-anjaly.github.io/portfolio/](https://jyoti-anjaly.github.io/portfolio/)
 
-- 💬 Ask me about **||C Programming||HTML||CSS**
+- 💬 Ask me about **C Programming || HTML || CSS**
 
-- 📫 How to reach me **jyotisingh7782019@gmail.com**
+- 📫 How to reach me :**jyotisingh7782019@gmail.com**
 
-- ⚡ Fun fact **I can share and read memes 24/7 XD.**
+- ⚡ Fun fact :**I can share and read memes 24/7 XD.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jyoti-anjaly-1979651b3/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jyoti-anjaly-1979651b3/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100005202319397" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/profile.php?id=100005202319397" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/jyotianjaly" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://instagram.com/jyotianjaly" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100005202319397" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/profile.php?id=100005202319397" height="30" width="40" /></a>
+<a href="https://instagram.com/jyotianjaly" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://instagram.com/jyotianjaly" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/jyoti_anjaly" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jyoti_anjaly" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/jyotisingh778201" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="jyotisingh778201" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sirfiri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="sirfiri" height="30" width="40" /></a>
