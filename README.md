@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyoti-anjaly" alt="jyoti-anjaly" /></a> </p>
 
-- 🔭 I’m currently working on [Machine Learning project on the topic " Anti-Counterfeit-on-Medicine-detection"](https://github.com/jyoti-anjaly/Anti-Counterfeit-on-Medicine-detection-.git)
+- 🔭 I’m currently working on [Blockchain Technology project on the topic " Anti-Counterfeit-on-Medicine-detection"](https://github.com/jyoti-anjaly/Anti-Counterfeit-on-Medicine-detection-.git)
 
 - 🌱 I’m currently learning **Web Development || C++ || Python || Machine Learning etc.**
 
