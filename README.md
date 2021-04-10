@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web Development || C++ || Python || Machine Learning etc.**
 
-- 👨‍💻 All of my projects are available at [https://jyoti-anjaly.github.io/portfolio/](https://jyoti-anjaly.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://jyoti-anjaly.github.io/portfolio/)
 
 - 💬 Ask me about **C Programming || HTML || CSS**
 
