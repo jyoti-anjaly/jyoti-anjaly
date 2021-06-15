@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm JYOTI ANJALY</h1>
-<h3 align="center">A passionate beginner in Programming field from India</h3>
+<h1 align="center">Hi 👋, I'm Jyoti Anjaly</h1>
+<h3 align="center">Competitive Coder || Beginner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyoti-anjaly&label=Profile%20views&color=0e75b6&style=flat" alt="jyoti-anjaly" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/jyotianjaly" target="blank"><img src="https://img.shields.io/twitter/follow/jyotianjaly?logo=twitter&style=for-the-badge" alt="jyotianjaly" /></a> </p>
 
-- 🔭 I’m currently working on [Machine Learning project on the topic " Anti-Counterfeit-on-Medicine-detection"](https://github.com/jyoti-anjaly/Anti-Counterfeit-on-Medicine-detection-.git)
+- 🔭 I’m currently working on [Mini project on the topic " Anti-Counterfeit-on-Medicine-detection using Blockchain Technology" ](https://github.com/jyoti-anjaly/Anti-Counterfeit-on-Medicine-detection-.git) 
 
 - 🌱 I’m currently learning **||Web Development||C++||Python||Machine Learning etc.**
 
-- 👨‍💻 All of my projects are available at [https://jyoti-anjaly.github.io/portfolio/](https://jyoti-anjaly.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://jyoti-anjaly.github.io/portfolio/)
 
 - 💬 Ask me about **||C Programming||HTML||CSS**
 
