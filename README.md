@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [Mini project on the topic " Anti-Counterfeit-on-Medicine-detection using Blockchain Technology" ](https://github.com/jyoti-anjaly/Anti-Counterfeit-on-Medicine-detection-.git) 
 
-- 🌱 I’m currently learning **||Web Development || C++ || Python|| Machine Learning etc.**
+- 🌱 I’m currently learning **Web Development || C++ || Python|| Machine Learning etc.**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://jyoti-anjaly.github.io/portfolio/)
 
-- 💬 Ask me about ** ||C Programming || HTML || CSS**
+- 💬 Ask me about **C Programming || HTML || CSS**
 
 - 📫 How to reach me **jyotisingh7782019@gmail.com**
 
