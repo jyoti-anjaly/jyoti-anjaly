@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **jyotisingh7782019@gmail.com**
 
-- ⚡ Fun fact **I can share and read memes 24/7 XD.**
+- ⚡ Fun fact: **I can share and read memes 24/7 XD.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
