@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Jyoti Anjaly</h1>
+<h1 align="center">Hey 👋, I am Jyoti Anjaly</h1>
 <h3 align="center">Open Source Enthusiastic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyoti-anjaly&label=Profile%20views&color=0e75b6&style=flat" alt="jyoti-anjaly" /> </p>
