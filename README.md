@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jyoti Anjaly</h1>
-<h3 align="center">Competitive Coder || Beginner</h3>
+<h1 align="center">Hi 👋, I am Jyoti Anjaly</h1>
+<h3 align="center">Open Source Enthusiastic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyoti-anjaly&label=Profile%20views&color=0e75b6&style=flat" alt="jyoti-anjaly" /> </p>
 
@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/jyotianjaly" target="blank"><img src="https://img.shields.io/twitter/follow/jyotianjaly?logo=twitter&style=for-the-badge" alt="jyotianjaly" /></a> </p>
 
-- 🔭 I’m currently working on [Mini project on the topic " Anti-Counterfeit-on-Medicine-detection using Blockchain Technology" ](https://github.com/jyoti-anjaly/Anti-Counterfeit-on-Medicine-detection-.git) 
+- 🔭 I’m currently working on my Problem Solving Skills  
 
-- 🌱 I’m currently learning **Web Development || C++ || Python|| Machine Learning etc.**
+- 🌱 I’m currently learning **Data Structures & Algorithm**
 
 - 👨‍💻[Portfolio](https://jyoti-anjaly.github.io/portfolio/)
 
-- 💬 Ask me about **C Programming || HTML || CSS**
+- 💬 Ask me about **Open Source**
 
 - 📫 How to reach me **jyotisingh7782019@gmail.com**
 
-- ⚡ Fun fact: **I can share and read memes 24/7 XD.**
+- ⚡ Fun fact: **I can share and read memes 24/7 XD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
