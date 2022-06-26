@@ -27,7 +27,7 @@
 <a href="https://instagram.com/https://instagram.com/jyotianjaly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/jyotianjaly" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/jyoti_anjaly" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jyoti_anjaly" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/jyotianjaly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jyotisingh778201" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sirfiri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="sirfiri" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/jyotianjaly" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="sirfiri" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/jyotisingh7782019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jyotisingh7782019" height="30" width="40" /></a>
 </p>
 
